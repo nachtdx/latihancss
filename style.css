@@ -1,0 +1,30 @@
+body{
+    background: orange  center no-repeat;
+}
+.p1{font:italic normal bold 16px/18px;
+            text-align: right;
+            letter-spacing: 0,25 px;
+            word-spacing: 0,5 px;}
+        
+.p2{font:normal normal bold 16px/18px;
+         text-align: right;
+        letter-spacing: 0,25 px;
+        word-spacing: 0,5 px;}
+.playlist:link{
+        color:blue;
+    }
+.playlist:hover{
+        color:greenyellow;
+        font-size:14px;
+    }
+.playlist:active{
+        color: pink;
+        font-size:larger;
+    }
+.playlist:visited{
+        color:blueviolet;
+    }
+    
+    
+    
+        
